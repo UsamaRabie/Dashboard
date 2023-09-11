@@ -5,7 +5,6 @@ import Row3 from "./Row3";
 import Button from "@mui/material/Button";
 import { DownloadOutlined } from "@mui/icons-material";
 import { Box, Stack, Typography, useTheme } from "@mui/material";
-import Header from "../../components/Header";
 
 const Dashboard = () => {
   const theme = useTheme();

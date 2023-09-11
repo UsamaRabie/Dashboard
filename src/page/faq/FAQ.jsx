@@ -5,7 +5,7 @@ import AccordionSummary from "@mui/material/AccordionSummary";
 import Typography from "@mui/material/Typography";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import { Box, Stack } from "@mui/material";
-
+import Header from "../../components/Header";
 
 const FAQ = () => {
   const [expanded, setExpanded] = React.useState(false);

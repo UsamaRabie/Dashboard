@@ -4,12 +4,10 @@ import { DataGrid, GridToolbar } from "@mui/x-data-grid";
 import { Box, Typography } from "@mui/material";
 import { columns, rows } from "./data";
 
-
 const Invoices = () => {
   return (
 <Box>
   
-    
   
   
         <Box sx={{ height: 650,   mx: "auto" }}>

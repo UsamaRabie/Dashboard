@@ -71,7 +71,7 @@ const Form = () => {
 <Box>
   
   
-      <Header title="CREATE USER" subTitle="Create a New User Profile" />
+    
   
       <Box
       ref={form}
